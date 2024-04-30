@@ -27,3 +27,5 @@ console.log("My favorite place is 10560 Walnut St #200, Dallas, TX 75243")
 favoriteThings ();
 whyImHere();
 favoritePlace();
+
+
